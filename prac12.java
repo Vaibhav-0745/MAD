@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
         android:max="100"
         android:id="@+id/progress_horizontal"
         android:progress="0"
-        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        style="?android:attr/progressBarStyleHorizontal"
         />
 
 </LinearLayout>
